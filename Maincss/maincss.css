@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+#highlight{
+    background-color: green;
+    color: white;
+}
+
+.high{
+    background-color: yellow;
+    color: black;
+}
+h2{
+    color: pink;
+}
+
+h1{
+    background-color: red;
+    width: 70%;
+    color: blue;
+}
+
+p{
+    color: aqua;
+}
+
+.box{
+    background-color: white;
+    color: black;
+    width:500px;
+    height: auto;
+    margin: 100px 60px;
+    padding: 50px;
+    border: 10px solid red;
+
+    
+}
+
+
